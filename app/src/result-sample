@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.5 2ca3f387">
+    <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+    <meta osm_base="2019-02-06T11:53:02Z"/>
+    <node id="2113527443" lat="41.8968493" lon="12.5055960">
+        <tag k="amenity" v="restaurant"/>
+        <tag k="cuisine" v="italian"/>
+        <tag k="name" v="Sette"/>
+        <tag k="smoking" v="no"/>
+        <tag k="website" v="http://www.radissonblu.it/eshotel-roma/ristoranti/sette"/>
+        <tag k="wheelchair" v="yes"/>
+    </node>
+    <node id="2113527444" lat="41.8965498" lon="12.5059823">
+        <tag k="amenity" v="restaurant"/>
+        <tag k="cuisine" v="italian"/>
+        <tag k="name" v="Zest"/>
+        <tag k="smoking" v="no"/>
+        <tag k="website" v="http://www.radissonblu.it/eshotel-roma/ristoranti/zest"/>
+        <tag k="wheelchair" v="yes"/>
+    </node>
+    <node id="5454215844" lat="41.8988768" lon="12.5035512">
+        <tag k="addr:city" v="Roma"/>
+        <tag k="addr:housenumber" v="36"/>
+        <tag k="addr:postcode" v="00185"/>
+        <tag k="addr:street" v="Via Giovanni Giolitti"/>
+        <tag k="amenity" v="restaurant"/>
+        <tag k="capacity" v="120"/>
+        <tag k="cuisine" v="italian;gourmet"/>
+        <tag k="delivery" v="no"/>
+        <tag k="email" v="info.tvd.mercatocentrale@gmail.com"/>
+        <tag k="level" v="1"/>
+        <tag k="name" v="La Tavola, il vino e la dispensa"/>
+        <tag k="opening_hours" v="Mo-Su 12:00-15:00 19:00 23:00"/>
+        <tag k="outdoor_seating" v="no"/>
+        <tag k="smoking" v="no"/>
+        <tag k="takeaway" v="no"/>
+        <tag k="wheelchair" v="yes"/>
+    </node>
+</osm>
